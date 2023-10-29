@@ -10,7 +10,7 @@ input_ls=("ls")
 input_bash=("bash install.py")
 input_cd=("cd TOOLSV1")
 input_install_git= ("pkg install git")
-input_git=("git clone https://github.com/ANGGRA GANZ/TOOLSV1")
+input_git=("git clone https://github.com/AnggraGanz20/TOOLSV1/")
 if prank_choice == :
         os.system('clear')
         os.system('figlet TOOLSV1')
